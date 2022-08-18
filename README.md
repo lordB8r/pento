@@ -1,5 +1,10 @@
 # Pento
 
+Using ASDF to install Elixir, Node, and Erlang versions:
+`https://www.mitchellhanberg.com/post/2017/10/05/installing-erlang-and-elixir-using-asdf/`
+
+Running currently on Erlang OTP 25.0.3 and Elixir 1.12
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
